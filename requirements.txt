@@ -1,0 +1,6 @@
+pandas==2.0.3
+Pillow==9.0.1
+Pillow==10.2.0
+tensorflow==2.15.0.post1
+tensorflow==2.15.0
+tensorflow_object_detection_api==0.1.1
